@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define N 2000
 
+
 void buscarecursiva(int vet[], int n, int i){
     if(i==n){
         printf("VALOR NAO ENCONTRADO\n");
